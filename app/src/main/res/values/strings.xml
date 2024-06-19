@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pavel2</string>
+    <string name="login_label">Логин</string>
+    <string name="login_hint">user@gmail.ru</string>
+    <string name="pwd_label">Пароль</string>
+    <string name="pwd_hint">Ваш пароль</string>
+    <string name="login_btn_text"></string>
+
+</resources>

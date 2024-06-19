@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nameTv" type="id" />
+    <item name="phoneET" type="id" />
+    <item name="radioGroup" type="id" />
+    <item name="address" type="id" />
+    <item name="regBtn" type="id" />
+    <item name="geoBtn" type="id" />
+    <item name="startBTN" type="id" />
+</resources>
